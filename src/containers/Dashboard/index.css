@@ -1,0 +1,27 @@
+.ant-card {
+  border-radius: 10px;
+}
+
+.ant-card img {
+  border-radius: 10px;
+}
+
+.ant-card-body {
+  padding: 10px !important;
+}
+
+.ant-card-meta {
+  display: block;
+}
+
+.ant-card-meta-detail {
+  text-align: center;
+}
+
+.ant-card-meta-description {
+  font-weight: 500;
+}
+
+.ant-card-head-title {
+  text-align: center;
+}
